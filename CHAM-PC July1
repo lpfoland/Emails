@@ -673,7 +673,7 @@ overflow:hidden;
 
 <td valign="top" style="padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px"><div style="font-family:arial;font-size:18px;color:#131313;line-height:25px;text-align:left"><p style="padding: 0; margin: 0;text-align: center;"><span style="font-size:11px;">Copyright &copy; 2020 The Shoulders of Giants all rights reserved.</span></p>
 
-<p style="padding: 0; margin: 0;text-align: center;"><span style="font-size:11px;">If my TSoG related messages aren&#39;t relevant to you anymore, feel free to <a href="http://www.tsogiants.org/wiki/Unsubscribe?email_token={!Contact.Email_Key__c}&unsubscribe_key={!Contact.Unsubscribe_Token__c}" target="_blank" style="color: #00c0e7 !important; text-decoration: underline !important;"><font style=" color:#00c0e7;">unsubscribe</font></a></span></p>
+<p style="padding: 0; margin: 0;text-align: center;"><span style="font-size:11px;">If my TSoG related messages aren&#39;t relevant to you anymore, feel free to <a href="http://www.tsogiants.org/wiki/Unsubscribe?email_token={!Contact.TSoG_Email_Key__c}&unsubscribe_key={!Contact.TSoG_Unsubscribe_Token__c}" target="_blank" style="color: #00c0e7 !important; text-decoration: underline !important;"><font style=" color:#00c0e7;">unsubscribe</font></a></span></p>
 </div>
 </td>
 </tr>
